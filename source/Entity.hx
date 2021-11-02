@@ -583,7 +583,7 @@ class Entity extends FlxSpriteGroup
 	}
 	
 	public function playSound(ID:String){
-		FlxG.sound.play(Sound.fromFile("assets/sfx/"+ ID + AOTD.soundext));
+		FlxG.sound.play(AOTD.getSoundFile("assets/sfx/"+ ID + AOTD.soundext));
 	}
 	
 	public function toFloor(andStayThere:Bool = false){

@@ -225,6 +225,7 @@ class OptionsSubstate extends FlxSubState
 				onVolume = "mus";
 			//VIDEO
 			case "TOGGLE RESOLUTION":
+				#if desktop
 				if(!Lib.application.window.fullscreen){
 					switch (Lib.application.window.height){
 						case 270:
@@ -244,6 +245,7 @@ class OptionsSubstate extends FlxSubState
 							Lib.application.window.width = 480;
 							Lib.application.window.height = 270;
 				}
+				#end
 			case "TOGGLE FPS":
 				switch (FlxG.drawFramerate){
 					case 60:

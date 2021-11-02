@@ -1220,7 +1220,7 @@ class Player extends Entity
 					//trace("velocity", _velx, _vely);
 				_grav = -_jumpforce*0.75;//SHORT HOP
 				_z += _jumpforce;
-					playSound("sfx_jump.ogg");
+					playSound("sfx_jump");
 				if(FlxG.keys.anyPressed(AOTD.keysets[player-1].JUMP))_grav = -_jumpforce;//FOR HIGH JUMP
 				}
 				pauseAnimAtEnd();
