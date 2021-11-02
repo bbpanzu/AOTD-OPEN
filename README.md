@@ -2,7 +2,7 @@
 <html>
 # AOTD-OPEN
  AOTD public source code
-<img src="assets/logo3.png"/>
+<img src="assets/sprites/logo3.png"/>
 
  Shit i finna add<br><br>
  <br>-Character "skins" (palette recolor)[ ]
