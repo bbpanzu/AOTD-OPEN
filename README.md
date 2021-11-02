@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
  #AOTD public source code
 <br>
 <img src="assets/sprites/logo3.png"/>
@@ -39,4 +38,3 @@ hscript
 
 3.open Command prompt (WIN + R) and run <tt>lime test windows -debug<tt>
 
-</html>
