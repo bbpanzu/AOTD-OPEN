@@ -1,0 +1,5 @@
+A HUNDRED DOLLARS|-100.00|0|0|Free money
+A slap on the wrist|0.00|-45|0|Free spanking
+A step on the you|0.00|0|0|I am 17.
+A lolipop|0.00|3|500|Free in a bowl
+/data|shopbg2|shop_desk1|shopkeeper|shop_party|Welcome To the test shop. where we test shit. 

@@ -1,0 +1,2 @@
+/endlevel 
+/player all enabled 0

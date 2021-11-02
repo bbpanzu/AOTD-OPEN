@@ -1,0 +1,97 @@
+/bf 0
+/mus lvl2
+/add entity 1378 92 0 lamp2 8 88
+/add entity 1569 93 0 lamp2 8 88
+/add entity 490 102 0 lamp2 8 88
+/add enemy zombie 1321 105 0 200 wait true
+/add enemy zombie 1353 119 0 200 wait true
+/add enemy demon 710 125 0 200 wait true
+/add entity 131 128 0 tree 35 90
+/add entity 229 129 0 mailbox2 6 36
+/add enemy zombie 755 136 0 200 wait true
+/add enemy demon 1477 141 0 200 wait true
+/add enemy demon 1413 167 0 200 wait true
+/add prop 42 175 0 trashcan
+/add enemy demon 1445 201 0 200 wait true
+/add enemy zombie 573 227 0 200 wait true
+/add entity 546 235 0 lamp2 8 88
+/add entity 561 252 0 shop 0 117
+/add door 743 259 0 shop shop2
+/add entity 1342 263 0 lamp2 8 88
+/add entity 1491 275 0 tree 35 90
+/add entity 1555 275 0 tree 35 90
+/add entity 1806 276 0 tree 35 90
+/add entity 1748 276 0 tree 35 90
+/add entity 1869 276 0 tree 35 90
+/add entity 1691 276 0 tree 35 90
+/add entity 1631 278 0 tree 35 90
+/add prop 939 279 0 box
+/add entity 876 295 0 bush 13 18
+/add entity 681 296 0 bush 13 18
+/add entity 1849 297 0 tree 35 90
+/add entity 1671 297 0 tree 35 90
+/add entity 794 297 0 bush 13 18
+/add entity 622 297 0 bush 13 18
+/add entity 853 297 0 bush 13 18
+/add entity 655 297 0 bush 13 18
+/add entity 826 298 0 bush 13 18
+/add entity 703 299 0 bush 13 18
+/add entity 1524 299 0 tree 35 90
+/add entity 1912 300 0 tree 35 90
+/add entity 1439 300 0 tree 35 90
+/add entity 1732 301 0 tree 35 90
+/add entity 1788 302 0 tree 35 90
+/add entity 1598 302 0 tree 35 90
+/add prop 798 303 0 trashcan
+/add prop 596 305 0 box
+/add enemy demon 915 305 0 200 wait true
+/add entity 61 313 0 tree 35 90
+/add entity 1563 321 0 tree 35 90
+/add entity 1488 321 0 tree 35 90
+/add entity 1822 322 0 tree 35 90
+/add entity 1884 322 0 tree 35 90
+/add entity 1766 323 0 tree 35 90
+/add entity 1714 325 0 tree 35 90
+/add entity 1643 329 0 tree 35 90
+/add entity 1412 338 0 lamp2 8 88
+/add enemy demon 1362 348 0 200 wait true
+/add enemy zombie 146 350 0 200 wait true
+/add enemy demon 221 360 0 200 wait true
+/add enemy zombie 1322 363 0 200 wait true
+/add enemy zombie 195 363 0 200 wait true
+/add enemy demon 302 365 0 200 wait true
+/add enemy demon 1384 369 0 200 wait true
+/add enemy demon 1385 385 0 200 wait true
+/add enemy demon 259 385 0 200 wait true
+/add enemy zombie 1429 395 0 200 wait true
+/add enemy demon 215 400 0 200 wait true
+/add enemy demon 314 406 0 200 wait true
+/add prop 765 407 0 ball
+/add door 1917 417 0 room lvl2_2 80,180,0
+/add enemy demon 1371 424 0 200 wait true
+/add enemy zombie 1473 430 0 200 wait true
+/add enemy zombie 1421 432 0 200 wait true
+/add enemy demon 267 434 0 200 wait true
+/add enemy demon 1348 453 0 200 wait true
+/add enemy demon 1301 471 0 200 wait true
+/add enemy demon 255 473 0 200 wait true
+/add enemy demon 1269 478 0 200 wait true
+/add enemy zombie 216 500 0 200 wait true
+/add entity 1207 513 0 lamp2 8 88
+/add entity 1375 515 0 lamp2 8 88
+/add entity 1904 516 0 lamp2 8 88
+/add entity 1709 517 0 lamp2 8 88
+/add entity 1538 520 0 lamp2 8 88
+/add entity 770 527 0 tree 35 90
+/add entity 954 528 0 tree 35 90
+/add entity 1020 528 0 tree 35 90
+/add entity 818 528 0 tree 35 90
+/add entity 886 528 0 tree 35 90
+/add entity 723 529 0 tree 35 90
+/add entity 1306 536 0 tree 35 90
+/add entity 653 537 0 tree 35 90
+/add entity 592 537 0 tree 35 90
+/add entity 522 537 0 tree 35 90
+/add entity 1454 538 0 tree 35 90
+/add entity 1625 538 0 tree 35 90
+/add entity 1825 539 0 tree 35 90

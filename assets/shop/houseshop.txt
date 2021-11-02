@@ -1,0 +1,5 @@
+Pepsi|4.50|24|12|We don't have Coke. sorry.
+Tic-Tacs|3.00|15|16|Mintgreen flavor! 
+Mt. Dew|3.50|15|18|You need the energy i'm assuming
+Crackers|2.00|10|15|They are hella salty.
+/data|shopbg1|shop_desk1|shopkeeper|shop_city|Welcome To the shop down the block. What can i getcha?

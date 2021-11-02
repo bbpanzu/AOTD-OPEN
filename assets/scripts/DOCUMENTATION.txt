@@ -1,0 +1,91 @@
+
+ANY THING WITH THESE SYMBOLS ARE VALUES YOU HAVE TO INPUT YOURSELF
+
+# = integer (18 or any whole number)
+% = number (13.53 or any decimal number)
+$ = string (text)
+@ = boolean (true or false)
+& = color integer (0xAARRGGBB)
+
+EX: 
+	for 
+	/command $text #value @bool
+	you would input
+	/command blabla 4 true
+
+
+CAMERA
+
+	/camera position %x %y
+	
+		changes camera position
+	/camera type #type
+	
+		changes camera follow type
+	/camera lerp #lerp
+	
+		changes camera follow speed when camera type is 1
+	/camera shake #intesity
+	
+		shakes camera by intesity
+	/camera flash #duration #0xAARRGGBB
+	
+		flashes camera with a color
+
+
+PLAYER
+	
+	** = all or any integer
+
+	/player ** tospawn
+	
+		sets player(s) to spawn
+	/player ** position %x %y %z
+	
+		sets player(s) to point
+	/player ** character $char
+	
+		changes player(s) 's character
+	/player ** hp %value
+	
+		sets player(s) 's hp
+	/player ** mp %value
+	
+		sets player(s) 's mp
+	/player ** getposition
+	
+		copies player(s) 's coordinates to clipboard
+	/player ** getfloorz
+	
+		copies player(s) 's floor-z to clipboard
+	/player ** money %coins
+	
+		gives player(s) 's %coins amount of money
+	/player ** dead @
+	
+		gives player(s) 's %coins amount of money
+
+
+
+
+ADD
+
+
+
+
+
+
+
+
+MUSIC
+
+
+
+
+
+SOUND
+
+
+
+
+MISC

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<spawn name="init" x="67" y="230" z="0" />
+	<sprites>
+		<sprite path="assets/sprites/bg/test/testroom_t2.png">
+			<x>242</x>
+			<y>256</y>
+			<z>0</z>
+			<ox>0</ox>
+			<oy>37</oy>
+			<noclip>true</noclip>
+			<float>true</float>
+		</sprite>
+	</sprites>
+</data>

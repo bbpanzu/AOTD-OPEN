@@ -1,0 +1,5 @@
+Dick-shaped Cheeto|5.00|12|15|It's exactly what it says it is.
+BBQ Sause|4.00|10|10|It's pretty good i think.
+Bottled Water|1.00|2|40|A pretty smart investment
+Meth|20.00|-80|500|Not good for you. don't ask why i have it.
+/data|shopbg2|shop_desk1|shopkeeper|shop_party|Welcome To the shop in the middle of the subdivision. How can i help?

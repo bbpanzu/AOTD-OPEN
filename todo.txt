@@ -1,0 +1,44 @@
+//FOR DEMO
+
+7-9 
+	-fix door at house	[X]
+	-add demon enemy	[X]
+	-demo end screen	[X]
+7-10
+	-shop state [X]
+	-tiny demon [X]
+7-12
+	michael anims	[X]
+	christine anims	[X]
+
+7-13
+	-add hit sound [X]
+	
+7-14
+	-death screen	[X]
+	-sprite lvl1 boss (small demon)	[X]
+
+7-15
+	-work on lvl2	[X]
+	
+
+fix shop door in lvl1 (enemy shit)(not enemy shit. missplaced door)[X]
+Make actual items in shop PLEASE[X]
+finish victory screen [X]
+make story mode[X]
+add intro sequence[X]
+indicate ALPHA VERSION[X]
+add force attacks[]
+stage select[X]
+set boss hp back to max[X]
+sound and auto end to intro seq[X]
+michael's throwing anim and falling anim[X]
+make another shop[X]
+seperate price and name text[X]
+character select with num player select[X]
+fix lvl1 enter house crash[X] (misspelled in the level data)
+
+
+LEVEL EDITOR
+
+make prop 

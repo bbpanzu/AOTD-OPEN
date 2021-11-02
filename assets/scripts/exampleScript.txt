@@ -1,0 +1,4 @@
+/player 0 hp 10
+/player 1 hp 50
+/ufps 30
+/dfps 30

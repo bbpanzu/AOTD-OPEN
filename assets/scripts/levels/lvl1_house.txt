@@ -1,0 +1,6 @@
+/bf 128
+/mus lvl1
+/add door 240 410 0 room basement 101,189,2
+/add door 897 417 0 room lvl1 450,165,2
+/add enemy tinydemon 524 418 30 200 wait true 
+/add enemy tinydemon 755 441 0 200 wait true 

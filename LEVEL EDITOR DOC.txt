@@ -1,0 +1,32 @@
+in the editorConfig.txt, the 1st parameter is what level you want to edit. it has be named by whatever it's named in the assets/sprites/bg folder and the assets/scripts/levels folder and the 2nd parameter is the heightmap's color value for base height 
+(128 makes grey pixels the base ground)
+(0 makes black pixels the base ground)
+
+KEYBOARD FUNCTION 
+
+CTRL+A/S/D/W
+-pan camera
+
+CTRL+LEFT/RIGHT/UP/DOWN (SHIFT)
+-move object on 2D ground
+
+CTRL+NUMPAD 2/4/6/8 (SHIFT)
+-move object on 3D space
+
+CTRL+NUMPAD 1/3/7/9 (CTRL)
+-move entity's sprite offset
+
+CTRL+Q
+-parse and save level
+
+CTRL+E
+-parse level
+
+CTRL+O
+-open level based on config
+
+CTRL+DELETE
+-delete all objects in the stage
+
+CTRL+SHIFT+DELETE
+-delete all objects of selected type in the stage

@@ -1,0 +1,19 @@
+/add prop 570 184 0 trashcan
+/add prop 560 186 0 trashbag
+/add prop 500 187 0 box
+/add prop 1090 184 0 trashcan
+/add prop 1080 186 0 trashbag
+/add prop 970 187 0 box
+/add npc 1059 195 0 1 8
+/add npc 1865 162 33 3 8
+/add enemy zombie 1020 250 0 220 wait 1
+/add enemy tinydemon 1060 250 0 220 wait 1
+/add enemy zombie 1050 260 0 220 wait 1
+/add enemy tinydemon 1040 250 0 220 wait 1
+/add enemy tinydemon 1020 230 0 220 wait 1	
+/add enemy 0 2020 250 35 220 wait 1
+/add enemy 2 2060 450 35 220 wait 1
+/add enemy 0 2050 260 35 220 wait 1
+/add enemy 0 2070 280 35 220 wait 1
+/add enemy 2 2040 250 35 220 wait 1
+/add enemy 2 2020 230 35 220 wait 1

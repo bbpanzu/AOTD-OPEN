@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="car.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 620000" x="0" y="0" width="182" height="96"/>
+	<SubTexture name="Symbol 620001" x="0" y="0" width="182" height="96"/>
+	<SubTexture name="Symbol 620002" x="0" y="0" width="182" height="96"/>
+	<SubTexture name="Symbol 620003" x="0" y="0" width="182" height="96"/>
+	<SubTexture name="Symbol 620004" x="0" y="0" width="182" height="96"/>
+	<SubTexture name="Symbol 620005" x="182" y="0" width="182" height="96"/>
+	<SubTexture name="Symbol 620006" x="182" y="0" width="182" height="96"/>
+	<SubTexture name="Symbol 620007" x="182" y="0" width="182" height="96"/>
+	<SubTexture name="Symbol 620008" x="182" y="0" width="182" height="96"/>
+	<SubTexture name="Symbol 620009" x="182" y="0" width="182" height="96"/>
+	<SubTexture name="Symbol 620010" x="0" y="96" width="182" height="96"/>
+	<SubTexture name="Symbol 620011" x="0" y="96" width="182" height="96"/>
+	<SubTexture name="Symbol 620012" x="0" y="96" width="182" height="96"/>
+	<SubTexture name="Symbol 620013" x="0" y="96" width="182" height="96"/>
+	<SubTexture name="Symbol 620014" x="0" y="96" width="182" height="96"/>
+	<SubTexture name="Symbol 620015" x="182" y="96" width="182" height="96"/>
+	<SubTexture name="Symbol 620016" x="182" y="96" width="182" height="96"/>
+	<SubTexture name="Symbol 620017" x="182" y="96" width="182" height="96"/>
+	<SubTexture name="Symbol 620018" x="182" y="96" width="182" height="96"/>
+	<SubTexture name="Symbol 620019" x="182" y="96" width="182" height="96"/>
+</TextureAtlas>

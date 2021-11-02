@@ -1,0 +1,15 @@
+/dl 4 /c:shake:3
+/dl 4 /snd:sfx_subboom:false
+/dl 5 /c:shake:5
+/dl 5 /snd:sfx_subboom:false
+/dl 6 /c:shake:-1
+/dl 6 /snd:sfx_rumble:false
+/dl 9 /c:shake:12
+/dl 9 /snd:sfx_explosion:false
+/dl 9 /snd:sfx_zombie_roar:false
+/dl 9 /c:flash:1:0xFFFFFFFF
+/dl 9 /add:enemy:boss_zombie:240:160:0:0:spawn:false
+/dl 12 /mus:boss2
+/dl 12 /hud:show
+/dl 12 /hud:fade:0:1
+/dl 12 /player:all:enabled:true

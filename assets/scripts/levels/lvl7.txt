@@ -1,0 +1,60 @@
+/add prop 4590 529 219 box
+/add prop 3573 530 233 trashcan
+/add prop 3118 530 227 trashcan
+/add prop 3532 531 202 trashcan
+/add prop 4270 531 87 box
+/add prop 3499 531 210 trashcan
+/add prop 4116 532 245 box
+/add prop 3776 533 173 ball
+/add prop 3221 534 255 trashcan
+/add prop 4385 534 87 box
+/add prop 4049 534 245 box
+/add prop 3919 540 250 ball
+/add prop 3883 540 250 ball
+/add prop 2894 561 255 box
+/add prop 2911 567 294 box
+/add prop 2933 567 255 box
+/add prop 5006 576 219 box
+/add prop 2857 578 255 box
+/add prop 2970 582 255 box
+/add enemy tinydemon 2037 604 68 200 wait true
+/add enemy tinydemon 2050 604 68 200 wait true
+/add prop 5192 610 219 box
+/add prop 2020 614 68 trashcan
+/add prop 2073 615 68 trashcan
+/add enemy tinydemon 2095 616 68 200 wait true
+/add enemy tinydemon 2052 622 68 200 wait true
+/add enemy tinydemon 1996 622 68 200 wait true
+/add prop 1293 624 164 box
+/add prop 1610 625 164 trashcan
+/add enemy tinydemon 1879 625 164 200 wait true
+/add prop 5109 626 219 box
+/add enemy demon 1004 629 97 200 wait true
+/add enemy zombie 664 640 167 200 wait true
+/add enemy demon 1032 641 60 200 wait true
+/add enemy tinydemon 1661 646 0 200 wait true
+/add enemy tinydemon 1492 646 0 200 wait true
+/add enemy tinydemon 1825 654 0 200 wait true
+/add enemy zombie 707 655 167 200 wait true
+/add enemy tinydemon 1695 656 0 200 wait true
+/add enemy tinydemon 2030 659 0 200 wait true
+/add enemy tinydemon 1915 664 0 200 wait true
+/add enemy demon 1030 666 37 200 wait true
+/add enemy tinydemon 1616 667 0 200 wait true
+/add prop 5654 672 219 box
+/add enemy tinydemon 1720 675 0 200 wait true
+/add enemy tinydemon 1940 675 0 200 wait true
+/add enemy demon 985 677 70 200 wait true
+/add enemy tinydemon 1773 677 0 200 wait true
+/add enemy demon 1012 678 43 200 wait true
+/add prop 5479 678 219 box
+/add prop 122 680 167 box
+/add enemy demon 958 681 91 200 wait true
+/add enemy zombie 713 688 167 200 wait true
+/add enemy tinydemon 1555 689 0 200 wait true
+/add enemy zombie 615 707 167 200 wait true
+/add enemy zombie 641 711 167 200 wait true
+/add prop 5584 711 219 box
+/add prop 1226 712 0 trashcan
+/add enemy zombie 674 713 167 200 wait true
+/add enemy zombie 575 717 167 200 wait true

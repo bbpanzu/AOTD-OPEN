@@ -1,0 +1,151 @@
+/bf 0
+/add door 3835 190 0 room boss2 2,160,0
+/add entity 57 123 0 bush 14 16
+/add entity 3335 125 0 bush 14 16
+/add entity 3190 125 0 bush 14 16
+/add entity 3214 126 0 bush 14 16
+/add entity 1745 127 0 bush 14 16
+/add entity 2242 127 0 bush 14 16
+/add entity 213 127 0 bush 14 16
+/add entity 247 127 0 bush 14 16
+/add entity 3315 127 0 bush 14 16
+/add entity 2682 127 0 bush 14 16
+/add entity 2728 127 0 bush 14 16
+/add entity 2216 127 0 bush 14 16
+/add entity 2782 127 0 bush 14 16
+/add entity 2707 127 0 bush 14 16
+/add entity 3292 127 0 bush 14 16
+/add entity 3235 127 0 bush 14 16
+/add entity 3768 127 0 bush 14 16
+/add entity 3744 127 0 bush 14 16
+/add entity 354 128 0 bush 14 16
+/add entity 1237 128 0 bush 14 16
+/add entity 326 128 0 bush 14 16
+/add entity 1694 128 0 bush 14 16
+/add entity 1718 128 0 bush 14 16
+/add entity 826 128 0 bush 14 16
+/add entity 3624 128 0 bush 14 16
+/add entity 2824 128 0 bush 14 16
+/add entity 2299 128 0 bush 14 16
+/add entity 852 128 0 bush 14 16
+/add entity 3664 128 0 bush 14 16
+/add entity 744 128 0 bush 14 16
+/add entity 3647 129 0 bush 14 16
+/add entity 839 129 0 bush 14 16
+/add entity 730 129 0 bush 14 16
+/add entity 2803 129 0 bush 14 16
+/add entity 2343 129 0 bush 14 16
+/add entity 2187 129 0 bush 14 16
+/add entity 229 130 0 bush 14 16
+/add entity 1840 130 0 bush 14 16
+/add entity 2319 130 0 bush 14 16
+/add entity 1215 130 0 bush 14 16
+/add entity 1192 130 0 bush 14 16
+/add entity 1321 130 0 bush 14 16
+/add entity 342 131 0 bush 14 16
+/add entity 1297 131 0 bush 14 16
+/add enemy demon 2971 135 0 200 wait true
+/add entity 2364 136 0 tree 37 90
+/add entity 3673 137 0 tree 37 90
+/add entity 3025 137 0 tree 37 90
+/add entity 1380 138 0 tree 37 90
+/add enemy zombie 756 139 0 200 wait true
+/add entity 1891 139 0 tree 37 90
+/add entity 262 140 0 tree 37 90
+/add entity 2544 142 0 tree 37 90
+/add enemy demon 112 142 0 200 wait true
+/add entity 755 142 0 tree 37 90
+/add enemy tinydemon 1582 144 0 200 wait true
+/add enemy tinydemon 1550 145 0 200 wait true
+/add prop 427 146 0 trashbag
+/add enemy zombie 3580 147 0 200 wait true
+/add enemy zombie 1559 148 0 200 wait true
+/add prop 2406 148 0 trashbag
+/add enemy demon 87 149 0 200 wait true
+/add enemy demon 1232 150 0 200 wait true
+/add enemy zombie 2097 151 0 200 wait true
+/add prop 1575 151 0 box
+/add prop 913 151 0 trashbag
+/add prop 1539 151 0 box
+/add entity 1496 151 0 lamp2 8 89
+/add prop 1936 152 0 trashbag
+/add prop 2850 152 0 trashbag
+/add prop 3814 152 0 trashcan
+/add enemy tinydemon 2861 152 0 200 wait true
+/add prop 1560 153 37 box
+/add prop 3786 153 0 trashbag
+/add entity 3726 153 0 mailbox2 7 37
+/add prop 2882 153 0 trashcan
+/add entity 3280 154 0 mailbox2 7 37
+/add prop 401 154 0 trashcan
+/add entity 511 154 0 lamp2 8 89
+/add prop 2882 154 40 trashbag
+/add prop 1969 154 0 trashcan
+/add enemy zombie 3537 154 0 200 wait true
+/add entity 33 154 0 lamp2 8 89
+/add prop 1449 154 0 trashcan
+/add prop 882 155 0 trashcan
+/add entity 2295 155 0 mailbox2 7 37
+/add entity 1293 156 0 mailbox2 7 37
+/add entity 3461 156 0 lamp2 8 89
+/add enemy zombie 3617 156 0 200 wait true
+/add entity 2781 156 0 mailbox2 7 37
+/add entity 818 157 0 mailbox2 7 37
+/add prop 2401 157 0 trashbag
+/add prop 782 157 0 trashbag
+/add entity 2991 158 0 lamp2 8 89
+/add prop 1397 158 0 trashbag
+/add entity 2500 158 0 lamp2 8 89
+/add entity 1003 158 0 lamp2 8 89
+/add prop 421 160 0 trashbag
+/add prop 1950 161 0 trashbag
+/add enemy demon 3223 162 0 200 wait true
+/add prop 2858 162 0 trashbag
+/add enemy demon 1256 163 0 200 wait true
+/add enemy demon 3681 164 0 200 wait true
+/add enemy demon 3702 170 0 200 wait true
+/add enemy zombie 15 175 0 200 wait true
+/add enemy zombie 864 176 0 200 wait true
+/add enemy demon 682 177 0 200 wait true
+/add enemy tinydemon 976 178 0 200 wait true
+/add enemy zombie 262 179 0 200 wait true
+/add enemy demon 3247 179 0 200 wait true
+/add enemy demon 3756 185 0 200 wait true
+/add enemy zombie 886 188 0 200 wait true
+/add enemy tinydemon 1464 188 0 200 wait true
+/add prop 3469 188 0 box
+/add enemy tinydemon 3470 190 41 200 wait true
+/add enemy zombie 290 193 0 200 wait true
+/add prop 2493 198 0 box
+/add enemy tinydemon 993 199 0 200 wait true
+/add prop 2767 199 0 box
+/add enemy tinydemon 1483 200 0 200 wait true
+/add enemy demon 3247 213 0 200 wait true
+/add enemy zombie 1404 213 0 200 wait true
+/add enemy zombie 290 214 0 200 wait true
+/add prop 1050 220 0 ball
+/add enemy tinydemon 1475 222 0 200 wait true
+/add enemy tinydemon 1770 223 0 200 wait true
+/add prop 1767 224 0 box
+/add enemy demon 879 225 0 200 wait true
+/add enemy tinydemon 979 225 0 200 wait true
+/add enemy zombie 3811 228 0 200 wait true
+/add prop 3756 228 0 box
+/add enemy zombie 1389 237 0 200 wait true
+/add enemy zombie 281 244 0 200 wait true
+/add enemy demon 3244 245 0 200 wait true
+/add enemy zombie 3795 247 0 200 wait true
+/add enemy demon 853 251 0 200 wait true
+/add enemy zombie 28 252 0 200 wait true
+/add enemy zombie 1348 253 0 200 wait true
+/add enemy demon 3703 253 0 200 wait true
+/add enemy zombie 258 259 0 200 wait true
+/add entity 185 263 0 lamp2 8 89
+/add entity 3653 264 0 lamp2 8 89
+/add entity 2658 264 0 lamp2 8 89
+/add enemy demon 3593 265 0 200 wait true
+/add entity 1640 265 0 lamp2 8 89
+/add entity 1202 265 0 lamp2 8 89
+/add entity 3172 266 0 lamp2 8 89
+/add entity 2196 268 0 lamp2 8 89
+/add entity 762 268 0 lamp2 8 89

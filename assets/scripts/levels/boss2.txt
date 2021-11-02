@@ -1,0 +1,23 @@
+/bf 0
+/hud hide
+/script initBoss1
+/dl 0.2 /player:all:enabled:0
+/ufps 30
+/dl 0.2 /player:all:state:walk_right
+/dl 1 /player:all:state:idle
+/dl 1 /ufps:60
+/add entity 168 128 0 bush 13 19
+/add entity 31 129 0 bush 13 19
+/add entity 98 129 0 bush 13 19
+/add entity 9 129 0 bush 13 19
+/add entity 146 129 0 bush 13 19
+/add entity 73 130 0 bush 13 19
+/add entity 122 130 0 bush 13 19
+/add entity 52 131 0 bush 13 19
+/add entity 218 140 0 lamp2 8 88
+/add entity 401 231 0 lamp2 8 88
+/add entity 446 266 0 tree 36 90
+/add entity 352 266 0 tree 36 90
+/add entity 176 266 0 tree 36 90
+/add entity 256 268 0 tree 36 90
+/add entity 78 268 0 tree 36 90

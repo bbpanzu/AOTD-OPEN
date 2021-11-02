@@ -1,0 +1,8 @@
+/mus basement 
+
+/bf 128
+/add entity 234 130 0 bg/basement/couch 76 30
+/add door 449 159 0 room boss2 2,160,0
+/add door 28 179 39 room lvl1_house 300,440,0
+/add entity 239 216 0 tissue 10 9
+/add entity 318 228 0 bg/basement/tv 18 80
