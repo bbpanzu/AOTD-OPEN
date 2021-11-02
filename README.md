@@ -1,5 +1,8 @@
+<!DOCTYPE html>
+<html>
 # AOTD-OPEN
  AOTD public source code
+<img src="assets/logo3.png"/>
 
  Shit i finna add<br><br>
  <br>-Character "skins" (palette recolor)[ ]
@@ -12,3 +15,5 @@
  <br>-Online minigames (co-op is wayyyy to much to deal with. maybe l8r tho) [ ]
  <br>-Better looking UI. [ ]
  <br>-Scene Haxe Scripts [ ]
+
+</html>
