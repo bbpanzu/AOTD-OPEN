@@ -1,5 +1,5 @@
 
- #AOTD public source code
+ # AOTD public source code
 <br>
 <img src="assets/sprites/logo3.png"/>
 
@@ -15,7 +15,7 @@
  <br>-[Better looking UI.] [ ]
  <br>-[Scene Haxe Scripts] [ ]
 
-##HOW TO COMPILE
+## HOW TO COMPILE
 -------------------------------
 
 1. <a href="https://haxeflixel.com/documentation/getting-started/">Install Haxe and HaxeFlixel</a>
@@ -27,10 +27,10 @@ flixel-addons
 flixel-ui
 hscript
 ```
-###HTML
+### HTML
 3.open Command prompt (WIN + R) and run <tt>lime test html5 -debug</tt>
 
-###WINDOWS
+### WINDOWS
 3.Install Visual Studio Community 2019 and install THESE INDIVIDUAL COMPNENTS:
 
 * MSVC v142 - VS 2019 C++ x64/x86 build tools
