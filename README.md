@@ -28,7 +28,7 @@ flixel-ui
 hscript
 ```
 ###HTML
-3.open Command prompt (WIN + R) and run <tt>lime test html5 -debug<tt>
+3.open Command prompt (WIN + R) and run <tt>lime test html5 -debug</tt>
 
 ###WINDOWS
 3.Install Visual Studio Community 2019 and install THESE INDIVIDUAL COMPNENTS:
