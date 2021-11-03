@@ -3,17 +3,20 @@
 
 <img src="assets/sprites/logo3.png"/>
 
+Feel free to code shit in and send pull requests
+
  Shit i finna add
- - [Character "skins" (palette recolor)][ ]
- - [Force animations] [ ]
- - [Christine Canigula] [ ]
- - [Stage select for arcade mode] [ ]
- - [Maybe SWF support? if not, finna stick with spritemap] [ ]
- - [Custom Keybinds and controller support] [ ]
- - [the rest of the levels (already planned)] [ ]
- - [Online minigames (co-op is wayyyy to much to deal with. maybe l8r tho)] [ ]
- - [Better looking UI.] [ ]
- - [Scene Haxe Scripts] [ ]
+ - Character "skins" (palette recolor)[ ]
+ - Force animations [ ]
+ - Christine Canigula [ ]
+ - BETTER Enemy AI [ ]
+ - Stage select for arcade mode [ ]
+ - Maybe SWF support? if not, finna stick with spritemap [ ]
+ - Custom Keybinds and controller support [ ]
+ - the rest of the levels (already planned) [ ]
+ - Online minigames (co-op is wayyyy to much to deal with. maybe l8r tho) [ ]
+ - Better looking UI. [ ]
+ - Scene Haxe Scripts [ ]
 
 ## HOW TO COMPILE
 -------------------------------
